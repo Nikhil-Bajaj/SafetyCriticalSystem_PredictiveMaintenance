@@ -52,7 +52,6 @@ TABLESPACE pg_default;
 ALTER TABLE IF EXISTS public.metrics
     OWNER to postgres;
 
-
 -- ******************************** PRED AFTER 15MINS ******************************** 
 -- Table: public.metrics_predict15
 -- DROP TABLE IF EXISTS public.metrics_predict15;
